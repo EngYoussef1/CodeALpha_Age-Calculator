@@ -4,12 +4,25 @@ body{
   background-image: url("pexels-ifreestock-585752.jpg");
   background-size: cover;
   width: 99%;
-  margin-top: 10%;
+  
 }
-h1{
+/* header{
+  overflow: hidden;
+  background-color: #f1f1f1;
+  opacity:var(20%);
+  padding: 20px 10px;
+  margin-bottom: 10%;
+} */
+
+ h1{
+  padding-top:-15px ;
+  padding-left: 10px;
   text-align: start;
-  color: white;
-  font-size: 50px;
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  margin-bottom: 10%;
+  font-weight: bold;
+  font-family: "Briem Hand", cursive;
 }
 .card {
   background-color: aliceblue;
